@@ -1,0 +1,55 @@
+
+snake_atlas.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+apple
+  rotate: false
+  xy: 2, 283
+  size: 175, 177
+  orig: 175, 177
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 2, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+snake_body
+  rotate: false
+  xy: 179, 285
+  size: 177, 175
+  orig: 177, 175
+  offset: 0, 0
+  index: -1
+snake_head_bottom
+  rotate: false
+  xy: 2, 104
+  size: 175, 177
+  orig: 175, 177
+  offset: 0, 0
+  index: -1
+snake_head_left
+  rotate: false
+  xy: 179, 108
+  size: 177, 175
+  orig: 177, 175
+  offset: 0, 0
+  index: -1
+snake_head_right
+  rotate: false
+  xy: 358, 285
+  size: 177, 175
+  orig: 177, 175
+  offset: 0, 0
+  index: -1
+snake_head_top
+  rotate: false
+  xy: 358, 106
+  size: 175, 177
+  orig: 175, 177
+  offset: 0, 0
+  index: -1
